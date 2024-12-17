@@ -11,6 +11,6 @@ int main()
 {
     std::cout << "Hello World!\n";
     vector<int> unsortedArray = { 5,4,3,2,1,0 };
-    insertionSort(unsortedArray)
+    insertionSort(unsortedArray);
 }
 
